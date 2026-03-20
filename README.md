@@ -152,8 +152,8 @@ The maximal Lyapunov exponent is computed via the standard trajectory divergence
 ### Installation
 
 ```bash
-git clone https://github.com/rafaelespinosamena/chaos-prediction.git
-cd chaos-prediction
+git clone https://github.com/rafaelespinosamena/Predicting-Chaos-ML-on-the-Lorenz-Attractor.git
+cd Predicting-Chaos-ML-on-the-Lorenz-Attractor
 pip install -r requirements.txt
 ```
 
